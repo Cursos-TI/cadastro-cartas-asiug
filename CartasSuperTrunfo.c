@@ -143,6 +143,6 @@ printf ("\nDensidade populacional carta: %i vencendora",densidade);
 printf ("\nPib per capital carta %i vencendora",pib_p_cap);
 printf ("\nSuper Poder carta: %i vencendora",superpoder);
 
-//
+
     return 0;
 }
